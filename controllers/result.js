@@ -25,7 +25,7 @@ var users = [{
 	}],
 	"notas": [
 	{"id": 0,"name":"Qualidade de Software", "nota": 5, "falta": 10, "exame": "", "notaExame": 0 },
-	{"id": 1,"name":"Programação de Sistemas de Distribuidos II", "nota": 5, "falta": 10, "exame": "","notaExame": 0},
+	{"id": 1,"nam  e":"Programação de Sistemas de Distribuidos II", "nota": 5, "falta": 10, "exame": "","notaExame": 0},
 	{"id": 2,"name":"Sistemas Distribuidos II", "nota": 5, "falta": 10, "exame": "", "notaExame": 0},
 	{"id": 3,"name":"Avaliação de Software II",	"nota": 5,"falta":10,"exame": "","notaExame": 0 },
 	{"id": 4,"name": "Inteligência Artificial II","nota": 5,"falta": 10,"exame": "","notaExame": 0}]
