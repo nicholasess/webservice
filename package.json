@@ -13,7 +13,7 @@
     "express": "~4.8.6",
     "forever": "^0.13.0",
     "jade": "~1.5.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.17",
     "morgan": "~1.2.3",
     "serve-favicon": "~2.0.1"
   }
